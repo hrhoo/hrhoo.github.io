@@ -21,7 +21,7 @@ categories: proj
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
 </div> -->
 
-I need to work more on this project.
+I need to work more on this project.:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
