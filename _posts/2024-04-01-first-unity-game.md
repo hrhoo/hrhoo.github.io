@@ -7,7 +7,7 @@ tags: unity, gamedevelopment
 categories: proj
 ---
 
-<!-- This is an example post with videos. It supports local video files.
+This is an example post with videos. It supports local video files.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +19,7 @@ categories: proj
 </div>
 <div class="caption">
     A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
-</div> -->
+</div>
 
 I need to work more on this project.:
 
